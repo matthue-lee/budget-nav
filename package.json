@@ -9,18 +9,33 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.4",
+    "@mui/material": "^6.1.4",
+    "@mui/x-charts": "^7.20.0",
+    "@nextui-org/react": "^2.4.8",
+    "@nextui-org/system": "^2.2.6",
+    "@nextui-org/table": "^2.0.40",
+    "@nextui-org/theme": "^2.2.11",
+    "@react-stately/data": "^3.11.7",
+    "apexcharts": "^3.54.1",
+    "framer-motion": "^11.11.9",
+    "half-pie-chart": "^1.0.6",
+    "next": "14.2.15",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.15"
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.20",
     "eslint": "^8",
-    "eslint-config-next": "14.2.15"
+    "eslint-config-next": "14.2.15",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5"
   }
 }

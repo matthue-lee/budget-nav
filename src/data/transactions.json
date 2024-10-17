@@ -1,0 +1,1802 @@
+[
+  {
+    "date": "2024-10-15",
+    "description": "Restaurant - Olive Garden",
+    "amount": -71.47,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-08",
+    "description": "Phone Bill",
+    "amount": -117.08,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-07",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-04-22",
+    "description": "Grocery Store - Walmart",
+    "amount": -164.59,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-02",
+    "description": "Phone Bill",
+    "amount": -137.67,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-03",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-20",
+    "description": "Fast Food - McDonald's",
+    "amount": -77.68,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-14",
+    "description": "Water Bill",
+    "amount": -147.13,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-22",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-25",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -58.24,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-16",
+    "description": "Restaurant - Olive Garden",
+    "amount": -74.73,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-31",
+    "description": "Streaming Service - Netflix",
+    "amount": -25.68,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-07-02",
+    "description": "Restaurant - Olive Garden",
+    "amount": -70.56,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-10-05",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -58.05,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-15",
+    "description": "Streaming Service - Hulu",
+    "amount": -25.24,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-05-15",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -10.41,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-27",
+    "description": "Electricity Bill",
+    "amount": -67.67,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-07-25",
+    "description": "Gas Station",
+    "amount": -55.52,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-06-28",
+    "description": "Streaming Service - Spotify",
+    "amount": -76.69,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-05-08",
+    "description": "Spotify Subscription",
+    "amount": -7.69,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-25",
+    "description": "Gym Membership",
+    "amount": -10.54,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-18",
+    "description": "Restaurant - Olive Garden",
+    "amount": -34.02,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-29",
+    "description": "Grocery Store - Safeway",
+    "amount": -69.61,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-15",
+    "description": "Grocery Store - Walmart",
+    "amount": -138.2,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-18",
+    "description": "Public Transport - Bus",
+    "amount": -71.95,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-28",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -94.09,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-25",
+    "description": "Water Bill",
+    "amount": -114.01,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-24",
+    "description": "Grocery Store - Walmart",
+    "amount": -77.94,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-25",
+    "description": "Spotify Subscription",
+    "amount": -16.65,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-15",
+    "description": "Phone Bill",
+    "amount": -134.23,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-10-01",
+    "description": "Water Bill",
+    "amount": -76.83,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-03",
+    "description": "Water Bill",
+    "amount": -98.34,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-23",
+    "description": "Internet Bill",
+    "amount": -115.14,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-17",
+    "description": "Grocery Store - Walmart",
+    "amount": -149.73,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-23",
+    "description": "Public Transport - Train",
+    "amount": -56.42,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-27",
+    "description": "Restaurant - Olive Garden",
+    "amount": -62.19,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-09-15",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-06",
+    "description": "Public Transport - Train",
+    "amount": -37.65,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-24",
+    "description": "Gas Station",
+    "amount": -99.01,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-09-16",
+    "description": "Spotify Subscription",
+    "amount": -10.43,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-10-07",
+    "description": "Internet Bill",
+    "amount": -138.78,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-22",
+    "description": "Electricity Bill",
+    "amount": -99.1,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-07-01",
+    "description": "Grocery Store - Safeway",
+    "amount": -106.14,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-20",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -62.44,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-09",
+    "description": "Gym Membership",
+    "amount": -15.41,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-04-29",
+    "description": "Netflix Subscription",
+    "amount": -12.56,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-25",
+    "description": "Gas Station",
+    "amount": -15.91,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-19",
+    "description": "Public Transport - Bus",
+    "amount": -61.58,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-21",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-27",
+    "description": "Gym Membership",
+    "amount": -5.26,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-07-16",
+    "description": "Restaurant - Olive Garden",
+    "amount": -22.63,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-20",
+    "description": "Streaming Service - Netflix",
+    "amount": -42.64,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-05",
+    "description": "Gym Membership",
+    "amount": -5.91,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-22",
+    "description": "Netflix Subscription",
+    "amount": -18.37,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-23",
+    "description": "Grocery Store - Safeway",
+    "amount": -156.25,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-21",
+    "description": "Restaurant - Olive Garden",
+    "amount": -30.67,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-14",
+    "description": "Taxi Ride",
+    "amount": -96.38,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-12",
+    "description": "Uber Ride",
+    "amount": -80.69,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-10-05",
+    "description": "Public Transport - Train",
+    "amount": -67.08,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-22",
+    "description": "Grocery Store - Walmart",
+    "amount": -157.56,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-10",
+    "description": "Uber Ride",
+    "amount": -62.08,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-14",
+    "description": "Gas Station",
+    "amount": -36.26,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-04-25",
+    "description": "Grocery Store - Costco",
+    "amount": -62.14,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-18",
+    "description": "Spotify Subscription",
+    "amount": -16.86,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-22",
+    "description": "Spotify Subscription",
+    "amount": -9.82,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-06",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -56.83,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-16",
+    "description": "Gym Membership",
+    "amount": -9.58,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-07-23",
+    "description": "Grocery Store - Walmart",
+    "amount": -111.5,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-12",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -100.79,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-19",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-05",
+    "description": "Grocery Store - Walmart",
+    "amount": -176.73,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-08",
+    "description": "Gym Membership",
+    "amount": -15.7,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-11",
+    "description": "Restaurant - Olive Garden",
+    "amount": -25.4,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-31",
+    "description": "Movie Theater",
+    "amount": -39.74,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-07-10",
+    "description": "Dinner - Chili's",
+    "amount": -65.59,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-11",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -32.16,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-03",
+    "description": "Fast Food - McDonald's",
+    "amount": -53.55,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-01",
+    "description": "Streaming Service - Hulu",
+    "amount": -79.39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-08-18",
+    "description": "Netflix Subscription",
+    "amount": -15.34,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-01",
+    "description": "Uber Ride",
+    "amount": -35.73,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-17",
+    "description": "Dinner - Chili's",
+    "amount": -20.8,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-09-26",
+    "description": "Restaurant - Olive Garden",
+    "amount": -10.26,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-04",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-08",
+    "description": "Water Bill",
+    "amount": -141.15,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-08",
+    "description": "Grocery Store - Costco",
+    "amount": -99.6,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-17",
+    "description": "Streaming Service - Hulu",
+    "amount": -19.8,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-09-02",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-01",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-21",
+    "description": "Taxi Ride",
+    "amount": -80.06,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-10-04",
+    "description": "Streaming Service - Spotify",
+    "amount": -11.27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-09-12",
+    "description": "Dinner - Chili's",
+    "amount": -62.26,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-21",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -184.07,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-13",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -37.86,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-04",
+    "description": "Water Bill",
+    "amount": -83.94,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-01",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-28",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-10-15",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-09",
+    "description": "Spotify Subscription",
+    "amount": -16.71,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-04",
+    "description": "Taxi Ride",
+    "amount": -52.56,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-09-08",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-17",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-20",
+    "description": "Water Bill",
+    "amount": -145.31,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-07",
+    "description": "Grocery Store - Costco",
+    "amount": -135.78,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-04-24",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-28",
+    "description": "Gym Membership",
+    "amount": -10.92,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-30",
+    "description": "Phone Bill",
+    "amount": -120.84,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-07-15",
+    "description": "Spotify Subscription",
+    "amount": -19.15,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-07-30",
+    "description": "Uber Ride",
+    "amount": -75.64,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-09-11",
+    "description": "Movie Theater",
+    "amount": -54.4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-09-22",
+    "description": "Grocery Store - Walmart",
+    "amount": -62.7,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-28",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -42.77,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-10-17",
+    "description": "Electricity Bill",
+    "amount": -149.75,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-20",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-27",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -83.44,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-09",
+    "description": "Gas Station",
+    "amount": -59.82,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-04",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -50.05,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-31",
+    "description": "Hulu Subscription",
+    "amount": -6.17,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-24",
+    "description": "Streaming Service - Hulu",
+    "amount": -31.66,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-09-03",
+    "description": "Movie Theater",
+    "amount": -42.44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-06-27",
+    "description": "Fast Food - McDonald's",
+    "amount": -38.26,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-16",
+    "description": "Fast Food - McDonald's",
+    "amount": -29.64,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-09-17",
+    "description": "Dinner - Chili's",
+    "amount": -17.39,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-14",
+    "description": "Streaming Service - Hulu",
+    "amount": -50.26,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-05-28",
+    "description": "Grocery Store - Safeway",
+    "amount": -79.96,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-16",
+    "description": "Restaurant - Olive Garden",
+    "amount": -26.36,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-30",
+    "description": "Hulu Subscription",
+    "amount": -17.27,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-07-14",
+    "description": "Fast Food - McDonald's",
+    "amount": -39.46,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-18",
+    "description": "Public Transport - Train",
+    "amount": -81.15,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-08",
+    "description": "Streaming Service - Netflix",
+    "amount": -27.47,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-06-22",
+    "description": "Fast Food - McDonald's",
+    "amount": -79.82,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-14",
+    "description": "Streaming Service - Spotify",
+    "amount": -34.82,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-17",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-10-13",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-04",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-13",
+    "description": "Restaurant - Olive Garden",
+    "amount": -67.76,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-28",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-09",
+    "description": "Phone Bill",
+    "amount": -115.31,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-04-20",
+    "description": "Electricity Bill",
+    "amount": -95.53,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-14",
+    "description": "Electricity Bill",
+    "amount": -89.31,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-07",
+    "description": "Dinner - Chili's",
+    "amount": -58.42,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-31",
+    "description": "Hulu Subscription",
+    "amount": -6.1,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-09-17",
+    "description": "Grocery Store - Walmart",
+    "amount": -70.92,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-26",
+    "description": "Grocery Store - Walmart",
+    "amount": -184.76,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-14",
+    "description": "Gas Station",
+    "amount": -90.57,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-29",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-23",
+    "description": "Grocery Store - Safeway",
+    "amount": -81.23,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-08",
+    "description": "Phone Bill",
+    "amount": -57.44,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-04-20",
+    "description": "Electricity Bill",
+    "amount": -108.21,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-10",
+    "description": "Spotify Subscription",
+    "amount": -19.74,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-12",
+    "description": "Phone Bill",
+    "amount": -67.78,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-04-26",
+    "description": "Electricity Bill",
+    "amount": -54.79,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-09-11",
+    "description": "Grocery Store - Walmart",
+    "amount": -188.01,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-15",
+    "description": "Spotify Subscription",
+    "amount": -12.11,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-04-28",
+    "description": "Streaming Service - Spotify",
+    "amount": -13.93,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-09-24",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -166.22,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-19",
+    "description": "Grocery Store - Safeway",
+    "amount": -119.44,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-16",
+    "description": "Dinner - Chili's",
+    "amount": -50.43,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-07",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-21",
+    "description": "Electricity Bill",
+    "amount": -59.6,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-23",
+    "description": "Gym Membership",
+    "amount": -18.17,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-03",
+    "description": "Electricity Bill",
+    "amount": -125.2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-07-26",
+    "description": "Taxi Ride",
+    "amount": -90.68,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-02",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-02",
+    "description": "Public Transport - Train",
+    "amount": -89.32,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-25",
+    "description": "Spotify Subscription",
+    "amount": -8.78,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-04-29",
+    "description": "Dinner - Chili's",
+    "amount": -66.92,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-31",
+    "description": "Netflix Subscription",
+    "amount": -11.89,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-21",
+    "description": "Restaurant - Olive Garden",
+    "amount": -65.59,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-09-14",
+    "description": "Water Bill",
+    "amount": -132.51,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-07-22",
+    "description": "Grocery Store - Walmart",
+    "amount": -99.44,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-15",
+    "description": "Phone Bill",
+    "amount": -92.63,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-08",
+    "description": "Grocery Store - Costco",
+    "amount": -76.72,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-13",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-17",
+    "description": "Water Bill",
+    "amount": -127.24,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-04",
+    "description": "Grocery Store - Costco",
+    "amount": -142.31,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-16",
+    "description": "Phone Bill",
+    "amount": -53.96,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-03",
+    "description": "Phone Bill",
+    "amount": -144.94,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-22",
+    "description": "Grocery Store - Walmart",
+    "amount": -93.28,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-10",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -85.55,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-03",
+    "description": "Streaming Service - Hulu",
+    "amount": -32.74,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-03",
+    "description": "Grocery Store - Walmart",
+    "amount": -55.42,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-16",
+    "description": "Hulu Subscription",
+    "amount": -16.52,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-29",
+    "description": "Streaming Service - Netflix",
+    "amount": -34.41,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-08-17",
+    "description": "Spotify Subscription",
+    "amount": -18.35,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-28",
+    "description": "Gym Membership",
+    "amount": -19.8,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-26",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-04",
+    "description": "Taxi Ride",
+    "amount": -72.27,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-09-25",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -18.56,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-16",
+    "description": "Streaming Service - Spotify",
+    "amount": -66.44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-07-13",
+    "description": "Phone Bill",
+    "amount": -128.99,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-04-25",
+    "description": "Public Transport - Train",
+    "amount": -36.86,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-09-19",
+    "description": "Dinner - Chili's",
+    "amount": -73.92,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-15",
+    "description": "Streaming Service - Hulu",
+    "amount": -56.62,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-09-27",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -72.23,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-09",
+    "description": "Grocery Store - Safeway",
+    "amount": -174.27,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-04-21",
+    "description": "Gym Membership",
+    "amount": -19.53,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-09-15",
+    "description": "Electricity Bill",
+    "amount": -106.21,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-26",
+    "description": "Spotify Subscription",
+    "amount": -5.88,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-18",
+    "description": "Restaurant - Olive Garden",
+    "amount": -16.11,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-08-03",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -93.97,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-30",
+    "description": "Streaming Service - Hulu",
+    "amount": -63.9,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-05-13",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-04-27",
+    "description": "Gas Station",
+    "amount": -45.56,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-06-07",
+    "description": "Electricity Bill",
+    "amount": -114.79,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-29",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-20",
+    "description": "Gas Station",
+    "amount": -53.43,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-06-10",
+    "description": "Streaming Service - Netflix",
+    "amount": -15.28,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-05-22",
+    "description": "Public Transport - Train",
+    "amount": -21.32,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-08-23",
+    "description": "Grocery Store - Safeway",
+    "amount": -72.91,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-16",
+    "description": "Gas Station",
+    "amount": -89.29,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-16",
+    "description": "Taxi Ride",
+    "amount": -83.39,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-13",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -28.31,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-06",
+    "description": "Internet Bill",
+    "amount": -52.34,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-14",
+    "description": "Netflix Subscription",
+    "amount": -5.53,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-27",
+    "description": "Grocery Store - Costco",
+    "amount": -144.81,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-12",
+    "description": "Grocery Store - Costco",
+    "amount": -181.05,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-26",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -114.54,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-02",
+    "description": "Public Transport - Bus",
+    "amount": -61.87,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-05",
+    "description": "Grocery Store - Safeway",
+    "amount": -141.82,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-26",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-07-07",
+    "description": "Streaming Service - Spotify",
+    "amount": -69.77,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-08",
+    "description": "Grocery Store - Safeway",
+    "amount": -67.61,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-04-23",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -152.87,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-06-26",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-21",
+    "description": "Water Bill",
+    "amount": -78.76,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-06-10",
+    "description": "Streaming Service - Hulu",
+    "amount": -73.36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-12",
+    "description": "Water Bill",
+    "amount": -97.0,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-11",
+    "description": "Grocery Store - Walmart",
+    "amount": -139.91,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-18",
+    "description": "Grocery Store - Safeway",
+    "amount": -110.18,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-09",
+    "description": "Netflix Subscription",
+    "amount": -19.41,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-05-09",
+    "description": "Gym Membership",
+    "amount": -13.2,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-05",
+    "description": "Netflix Subscription",
+    "amount": -18.98,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-23",
+    "description": "Electricity Bill",
+    "amount": -137.39,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-04-20",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-04",
+    "description": "Grocery Store - Costco",
+    "amount": -50.06,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-08-22",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-07",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-14",
+    "description": "Public Transport - Train",
+    "amount": -66.04,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-09-27",
+    "description": "Electricity Bill",
+    "amount": -88.28,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-10",
+    "description": "Dinner - Chili's",
+    "amount": -10.69,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-14",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-04",
+    "description": "Streaming Service - Spotify",
+    "amount": -65.22,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-08-06",
+    "description": "Movie Theater",
+    "amount": -69.1,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-06-08",
+    "description": "Grocery Store - Walmart",
+    "amount": -192.71,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-09",
+    "description": "Fast Food - McDonald's",
+    "amount": -78.53,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-09-30",
+    "description": "Spotify Subscription",
+    "amount": -13.37,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-29",
+    "description": "Netflix Subscription",
+    "amount": -19.36,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-06-24",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -58.82,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-11",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -47.49,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-07-02",
+    "description": "Electricity Bill",
+    "amount": -54.76,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-09-17",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-20",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -71.34,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-15",
+    "description": "Grocery Store - Costco",
+    "amount": -183.73,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-04-29",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -149.34,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-12",
+    "description": "Gym Membership",
+    "amount": -18.05,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-09-17",
+    "description": "Phone Bill",
+    "amount": -147.44,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-07-06",
+    "description": "Dinner - Chili's",
+    "amount": -58.3,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-15",
+    "description": "Fast Food - McDonald's",
+    "amount": -30.04,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-08",
+    "description": "Grocery Store - Costco",
+    "amount": -95.2,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-14",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-06-22",
+    "description": "Streaming Service - Hulu",
+    "amount": -67.48,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-03",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-08-11",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-11",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -17.93,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-23",
+    "description": "Rent Payment",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-18",
+    "description": "Grocery Store - Walmart",
+    "amount": -54.63,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-13",
+    "description": "Internet Bill",
+    "amount": -54.84,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-24",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-08-14",
+    "description": "Restaurant - Olive Garden",
+    "amount": -56.44,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-14",
+    "description": "Netflix Subscription",
+    "amount": -10.02,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-07-22",
+    "description": "Streaming Service - Spotify",
+    "amount": -23.87,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-07-29",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-09-04",
+    "description": "Spotify Subscription",
+    "amount": -16.76,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-02",
+    "description": "Coffee Shop - Starbucks",
+    "amount": -30.75,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-05-24",
+    "description": "Taxi Ride",
+    "amount": -11.11,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-26",
+    "description": "Movie Theater",
+    "amount": -11.75,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-04-29",
+    "description": "Movie Theater",
+    "amount": -30.68,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2024-10-10",
+    "description": "Internet Bill",
+    "amount": -113.88,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-08-06",
+    "description": "Grocery Store - Costco",
+    "amount": -163.07,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-18",
+    "description": "Gym Membership",
+    "amount": -19.28,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-09-06",
+    "description": "Gas Station",
+    "amount": -24.38,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-07-13",
+    "description": "Public Transport - Bus",
+    "amount": -41.3,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-24",
+    "description": "Taxi Ride",
+    "amount": -21.09,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-06-02",
+    "description": "Gym Membership",
+    "amount": -17.48,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-08-21",
+    "description": "Uber Ride",
+    "amount": -38.68,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-06-21",
+    "description": "Dinner - Chili's",
+    "amount": -65.5,
+    "category": "Dining"
+  },
+  {
+    "date": "2024-06-20",
+    "description": "Monthly Rent",
+    "amount": -1000,
+    "category": "Rent"
+  },
+  {
+    "date": "2024-05-10",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -181.04,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-10-15",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -107.63,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-17",
+    "description": "Grocery Store - Costco",
+    "amount": -52.64,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-30",
+    "description": "Uber Ride",
+    "amount": -71.8,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-24",
+    "description": "Grocery Store - Safeway",
+    "amount": -80.53,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-18",
+    "description": "Grocery Store - Trader Joe's",
+    "amount": -131.55,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-07-02",
+    "description": "Grocery Store - Walmart",
+    "amount": -159.76,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-16",
+    "description": "Public Transport - Train",
+    "amount": -97.39,
+    "category": "Transportation"
+  },
+  {
+    "date": "2024-05-10",
+    "description": "Grocery Store - Safeway",
+    "amount": -129.92,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-09-10",
+    "description": "Spotify Subscription",
+    "amount": -5.96,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2024-09-23",
+    "description": "Grocery Store - Safeway",
+    "amount": -167.14,
+    "category": "Groceries"
+  },
+  {
+    "date": "2024-05-31",
+    "description": "Water Bill",
+    "amount": -87.71,
+    "category": "Utilities"
+  },
+  {
+    "date": "2024-05-23",
+    "description": "Netflix Subscription",
+    "amount": -7.69,
+    "category": "Subscriptions"
+  }
+]
